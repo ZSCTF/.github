@@ -61,7 +61,7 @@ CTF（Capture The Flag）中文一般译作夺旗赛，在网络安全领域中�
 
 ### **ZSCTF题库：**
 
- https://zsctf.zhakul.top/
+ https://zsctf.lechnolocy.cn/
 
 **两个入门ctf时可以参考的链接：**
 
